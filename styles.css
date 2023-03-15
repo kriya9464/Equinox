@@ -1221,4 +1221,10 @@ time {
   padding-top:45px;
 }
 
+.statement{
+  background-color:blue;
+  color:white;
+  padding:5px;
+  margin:auto;
+}
 
