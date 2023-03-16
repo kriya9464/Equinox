@@ -1250,3 +1250,7 @@ a{
 .nav__list{
   margin:0px 0px 0px 2px;
 }
+
+.nav__logo{
+  font-size:17px;
+}
