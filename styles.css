@@ -1244,6 +1244,7 @@ a{
 .nav__item{
   padding:4px;
   font-size:14px;
+  margin:0px 0px 0px 2px;
 }
 
 .nav__list{
